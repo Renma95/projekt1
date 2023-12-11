@@ -3,3 +3,6 @@ Hallo lerneprogrammieren.com!
 ändere das programm ab testen öffentlich
 
 neue änderung zum testen!
+
+ich versuche jetzte einfach das ganze über die Konsole!
+hat nicht funktioniert nochmal!
